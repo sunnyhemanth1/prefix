@@ -1,0 +1,22 @@
+h1,h2{
+  text-align: center;
+}
+h2{
+  font-family: 'Parisienne', cursive;
+  color: #00ff7f;
+}
+h1{
+  font-family: 'Gentium Basic', serif;
+ color: midnightblue;
+  }
+p{
+  font-family: 'Aclonica', serif;
+  font-size: 13px;
+}
+h3{
+  font-family: 'Marck Script', cursive;
+  color: #ee82ee;	
+}
+body{
+  background: snow;
+}
